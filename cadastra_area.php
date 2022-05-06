@@ -5,7 +5,7 @@
     <html>
 
     <head>
-    <title>Sistema Empréstimo Livros</title>
+    <title> Empréstimo Livros</title>
     <link rel="stylesheet" type="text/css" href="estilo.css" />
     </head>
 
