@@ -5,14 +5,14 @@
     <html>
 
     <head>
-    <title>Natanaele Sistema Empréstimo Livros</title>
+    <title>Sistema Empréstimo Livros</title>
     <link rel="stylesheet" type="text/css" href="estilo.css" />
     </head>
 
     <body> <!-- HTML --> 
 
         <header>
-                <h3>Tais Cadastrar Area</h3>
+                <h3>Cadastrar Area</h3>
         </header>
 
             <div class="area">
